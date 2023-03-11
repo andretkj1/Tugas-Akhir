@@ -1,0 +1,234 @@
+{
+  "version": "5.0.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Periodontitis",
+      "points": [
+        [
+          44.12568306010929,
+          43.69398907103825
+        ],
+        [
+          76.77595628415301,
+          119.51366120218579
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Periodontitis",
+      "points": [
+        [
+          74.59016393442623,
+          43.28415300546448
+        ],
+        [
+          110.65573770491804,
+          114.8688524590164
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Periodontitis",
+      "points": [
+        [
+          106.83060109289617,
+          41.78142076502732
+        ],
+        [
+          152.86885245901638,
+          108.03825136612022
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Periodontitis",
+      "points": [
+        [
+          148.49726775956285,
+          39.3224043715847
+        ],
+        [
+          194.8087431693989,
+          113.63934426229508
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Periodontitis",
+      "points": [
+        [
+          183.46994535519124,
+          42.19125683060109
+        ],
+        [
+          223.49726775956285,
+          114.04918032786885
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Periodontitis",
+      "points": [
+        [
+          216.9398907103825,
+          45.333333333333336
+        ],
+        [
+          244.12568306010928,
+          112.13661202185793
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Periodontitis",
+      "points": [
+        [
+          35.79234972677595,
+          116.37158469945355
+        ],
+        [
+          68.5792349726776,
+          181.2622950819672
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Periodontitis",
+      "points": [
+        [
+          62.70491803278688,
+          180.30601092896174
+        ],
+        [
+          94.80874316939891,
+          103.39344262295081
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Periodontitis",
+      "points": [
+        [
+          92.34972677595628,
+          106.80874316939891
+        ],
+        [
+          129.50819672131146,
+          165.96174863387978
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Periodontitis",
+      "points": [
+        [
+          122.81420765027322,
+          108.17486338797814
+        ],
+        [
+          155.05464480874318,
+          162.0
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Periodontitis",
+      "points": [
+        [
+          150.95628415300547,
+          108.44808743169399
+        ],
+        [
+          181.14754098360655,
+          166.23497267759564
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Periodontitis",
+      "points": [
+        [
+          179.91803278688525,
+          108.44808743169399
+        ],
+        [
+          210.79234972677594,
+          173.20218579234972
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Periodontitis",
+      "points": [
+        [
+          208.0601092896175,
+          105.0327868852459
+        ],
+        [
+          244.53551912568307,
+          189.86885245901638
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Periodontitis",
+      "points": [
+        [
+          237.56830601092895,
+          106.26229508196721
+        ],
+        [
+          271.72131147540983,
+          165.14207650273224
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Periodontitis 1.jpg",
+  "imageData": "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",
+  "imageHeight": 199,
+  "imageWidth": 300
+}
