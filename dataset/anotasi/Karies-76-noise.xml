@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Karies - Validasi</folder>
+	<filename>Karies-76-noise.jpg</filename>
+	<path>D:\Andre\Kuliah\Semester 7 &amp; 8\TA\PROYEK TA\Dataset\Dataset-archive\Karies - Validasi\Karies-76.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4500</width>
+		<height>2475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>karies</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>616</xmin>
+			<ymin>808</ymin>
+			<xmax>999</xmax>
+			<ymax>1079</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>karies</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3445</xmin>
+			<ymin>537</ymin>
+			<xmax>3783</xmax>
+			<ymax>862</ymax>
+		</bndbox>
+	</object>
+</annotation>

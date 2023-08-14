@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Karies - Validasi</folder>
+	<filename>Karies-45-sharpen.jpg</filename>
+	<path>D:\Andre\Kuliah\Semester 7 &amp; 8\TA\PROYEK TA\Dataset\Dataset-archive\Karies - Validasi\Karies-45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1120</width>
+		<height>631</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>karies</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>430</xmin>
+			<ymin>196</ymin>
+			<xmax>568</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>karies</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>584</xmin>
+			<ymin>190</ymin>
+			<xmax>729</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>karies</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>882</xmin>
+			<ymin>270</ymin>
+			<xmax>933</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

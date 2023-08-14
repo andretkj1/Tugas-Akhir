@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Karies - Validasi</folder>
+	<filename>Karies-44-BGR.jpg</filename>
+	<path>D:\Andre\Kuliah\Semester 7 &amp; 8\TA\PROYEK TA\Dataset\Dataset-archive\Karies - Validasi\Karies-44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>karies</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>73</ymin>
+			<xmax>141</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>karies</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>588</xmin>
+			<ymin>65</ymin>
+			<xmax>656</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>

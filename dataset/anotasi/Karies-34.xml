@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Karies</folder>
+	<filename>Karies-34.jpg</filename>
+	<path>D:\Andre\Kuliah\Semester 7 &amp; 8\TA\PROYEK TA\Dataset\Karies\Karies-34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>karies</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>547</xmin>
+			<ymin>126</ymin>
+			<xmax>628</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>
